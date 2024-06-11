@@ -27,6 +27,4 @@ Mit !help wird dem User direkt weitere Hilfe zu Teil.
 - [Schlagwörter-Kommunikationskonventionen](#schlagwörter-kommunikationskonventionen)
 - [Detaillierte Beschreibungen der Schlagwörter](#detaillierte-beschreibungen-der-schlagwörter)
 
-### Hintergrundgeschichte
-Eine kurze Einführung in die Welt, in der das Spiel stattfindet:
 
