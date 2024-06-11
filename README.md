@@ -33,4 +33,4 @@ Dieses Repository enthält alle notwendigen Dateien und Informationen, um ein te
 
 ## Lizenz
 
-Dieses Projekt steht unter der MIT-Lizenz. Weitere Informationen findest du in der [LICENSE](/LICENSE) Datei.
+Dieses Projekt steht unter der MIT-Lizenz. Weitere Informationen findest du in der [LICENSE](LICENSE.md) Datei.
