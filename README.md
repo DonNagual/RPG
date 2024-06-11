@@ -29,4 +29,4 @@ Dieses Repository enthält alle notwendigen Dateien und Informationen, um ein te
 
 1. **Repository klonen**: Klone dieses Repository auf deinen lokalen Computer, um die Dateien zu bearbeiten und zu verwenden.
    ```bash
-   git clone https://github.com/USERNAME/REPOSITORY_NAME.git
+   git clone https://github.com/DonNagual/RPG.git
