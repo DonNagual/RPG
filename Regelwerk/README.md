@@ -11,17 +11,11 @@ Die Einhaltung dieser Richtlinien durch den Assistenten garantiert eine konsiste
 Mit !help wird dem User direkt weitere Hilfe zu Teil.
 
 ## Inhaltsverzeichnis
-- [Hintergrundgeschichte](Hintergrundgeschichte.md)
+
 - [Charaktererschaffung](Charaktererschaffung.md)
 - [Spielregeln](Spielregeln.md)
 - [Spielleiter-Richtlinien](Spielleiter.md)
 - [Kommunikationsregeln](Kommunikationsregeln.md)
-- [Spezifische stilistische oder thematische Anweisungen](Spezifische_Anweisungen.md)
-- [Handling von Unklarheiten](Handling_von_Unklarheiten.md)
-- [Markierung der Erzählstränge](Markierung-der-Erzählstränge.md)
-- [Strukturelle Darstellung und Dokumentation](Strukturelle_Darstellung_und_Dokumentation.md)
-- [Kommunikationsmodi](Kommunikationsmodi.md)
 - [Kommunikationskonventionen](Kommunikationskonventionen.md)
-- [Kommunikationssprache](Kommunikationssprache.md)
 
 [zurück](../README.md)
