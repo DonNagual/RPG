@@ -32,9 +32,6 @@ Mit !help wird dem User direkt weitere Hilfe zu Teil.
 
 
 
-## Markierung der Erzählstränge
-- **Haupt- und Nebenstränge**: Die Struktur der Geschichte wird durch spezielle Präfixe wie `[Haupt]` und `[Neben]` kenntlich gemacht.
-- **Strangübergänge**: Übergänge zwischen Strängen werden verdeutlicht durch `[Neben > Ende]` oder `[Neben > Haupt]`.
 
 ## Strukturelle Darstellung und Dokumentation
 - **Visuelle Darstellung**: Zur Verdeutlichung der Geschichte wird ein Flussdiagramm oder eine ähnliche visuelle Darstellung verwendet.
