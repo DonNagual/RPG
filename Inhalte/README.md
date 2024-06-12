@@ -1,4 +1,6 @@
-# Inhaltsverzeichnis
+# Spiel_Inhalt
+
+## Inhaltsverzeichnis
 
 - [Hintergrundgeschichte](Hintergrundgeschichte.md)
 - [Charaktere](Charaktere.md)
