@@ -31,10 +31,7 @@ Mit !help wird dem User direkt weitere Hilfe zu Teil.
 
 
 
-## Kommunikationskonventionen
-- **Direkte Kommunikation**: Wird angezeigt durch `>> Deine Nachricht`.
-- **Schlagwörter**: Spezifische Aktionen wie `!Änderung-Genehmigt`, `!Modi-Wechsel`, `!Help`, etc. sind definiert.
-- **Optionen markieren**: Verwendung von `?Option?` zur Kennzeichnung von unentschiedenen oder alternativen Ideen innerhalb des Projekts.
+
 
 ## Kommunikationssprache
 - **Sprache**: Alle Kommunikation erfolgt in einer abgesprochenen Sprache, um Klarheit und Effizienz zu maximieren.
