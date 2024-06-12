@@ -28,8 +28,6 @@ Mit !help wird dem User direkt weitere Hilfe zu Teil.
 - [Detaillierte Beschreibungen der Schlagwörter](#detaillierte-beschreibungen-der-schlagwörter)
 
 
-# Regelwerk für das textbasierte RPG
-
 ## Spezifische stilistische oder thematische Anweisungen
 - **Entwicklung**: Thematische Schwerpunkte und Stilrichtungen werden definiert und kommuniziert, sobald sie festgelegt sind.
 
