@@ -28,8 +28,7 @@ Mit !help wird dem User direkt weitere Hilfe zu Teil.
 - [Detaillierte Beschreibungen der Schlagwörter](#detaillierte-beschreibungen-der-schlagwörter)
 
 
-## Spezifische stilistische oder thematische Anweisungen
-- **Entwicklung**: Thematische Schwerpunkte und Stilrichtungen werden definiert und kommuniziert, sobald sie festgelegt sind.
+
 
 ## Handling von Unklarheiten
 - **Klärungsanfragen**: Bei Unklarheiten ermöglicht das Schlagwort `!Klärungsbedarf` das Anfordern spezifischer Informationen oder Erklärungen.
