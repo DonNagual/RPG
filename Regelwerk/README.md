@@ -30,9 +30,7 @@ Mit !help wird dem User direkt weitere Hilfe zu Teil.
 
 
 
-## Handling von Unklarheiten
-- **Klärungsanfragen**: Bei Unklarheiten ermöglicht das Schlagwort `!Klärungsbedarf` das Anfordern spezifischer Informationen oder Erklärungen.
-  - **Beispiel**: `!Klärungsbedarf` könnte verwendet werden, um zusätzliche Details in der Geschichte zu erfragen.
+
 
 ## Markierung der Erzählstränge
 - **Haupt- und Nebenstränge**: Die Struktur der Geschichte wird durch spezielle Präfixe wie `[Haupt]` und `[Neben]` kenntlich gemacht.
