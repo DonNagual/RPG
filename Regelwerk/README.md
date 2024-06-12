@@ -1,4 +1,4 @@
-# Regelwerk für ein Textbasiertes RPG mit ChatGPT als Spielleiter
+# Regelwerk
 
 ## Einleitung zum Regelwerk für die Interaktion mit dem KI-Assistenten
 
