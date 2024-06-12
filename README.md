@@ -36,7 +36,7 @@ Hier geht es direkt zum [Regelwerk](Regelwerk/README.md)
 
 ## Kontakt
 
-Bei Fragen oder Feedback zum Projekt, kontaktiere bitte DonNagual unter stonedbull@gmail.com.
+Bei Fragen oder Feedback zum Projekt, kontaktiere bitte DonNagual unter @gmail.com.
 
 ## Lizenz
 
