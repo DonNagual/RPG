@@ -15,6 +15,8 @@ Dieses Repository enthält alle notwendigen Dateien und Informationen, um ein te
 - **Charaktere**: Details zu wichtigen Charakteren im Spiel, sowohl Spielercharaktere als auch Nicht-Spieler-Charaktere (NSCs).
 - **Spielerinteraktion**: Regeln und Konventionen zur Interaktion zwischen den Spielern und ChatGPT als Spielleiter.
 
+- ++[Inhalts]()
+
 ## Dateien im Repository
 
 - `Hintergrundgeschichte.md`: Die Hintergrundgeschichte und das Setting des Spiels.
