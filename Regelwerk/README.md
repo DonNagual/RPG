@@ -24,4 +24,4 @@ Mit !help wird dem User direkt weitere Hilfe zu Teil.
 - [Kommunikationskonventionen](Kommunikationskonventionen.md)
 - [Kommunikationssprache](Kommunikationssprache.md)
 
-[zurück](RPG/README.md)
+[zurück](../README.md)
