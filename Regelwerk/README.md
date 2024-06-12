@@ -23,6 +23,5 @@ Mit !help wird dem User direkt weitere Hilfe zu Teil.
 - [Kommunikationsmodi](Kommunikationsmodi.md)
 - [Kommunikationskonventionen](Kommunikationskonventionen.md)
 - [Kommunikationssprache](Kommunikationssprache.md)
-- [Story-Kommunikationskonventionen](Story_Kommunikationskonventionen.md)
-- [Schlagwörter-Kommunikationskonventionen](Schlagwörter_Kommunikationskonventionen.md)
-- [Detaillierte Beschreibungen der Schlagwörter](Detaillierte_Beschreibungen_der_Schlagwörter.md)
+
+[zurück](README.md)
