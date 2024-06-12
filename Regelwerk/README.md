@@ -31,15 +31,6 @@ Mit !help wird dem User direkt weitere Hilfe zu Teil.
 
 
 
-
-
-## Strukturelle Darstellung und Dokumentation
-- **Visuelle Darstellung**: Zur Verdeutlichung der Geschichte wird ein Flussdiagramm oder eine ähnliche visuelle Darstellung verwendet.
-
-## Kommunikationsmodi
-- **Standardmodus**: Ermöglicht freie Diskussion und kreative Vorschläge.
-- **Story-Modus**: Erfordert strikte Einhaltung der festgelegten Regeln und Strukturen.
-
 ## Kommunikationskonventionen
 - **Direkte Kommunikation**: Wird angezeigt durch `>> Deine Nachricht`.
 - **Schlagwörter**: Spezifische Aktionen wie `!Änderung-Genehmigt`, `!Modi-Wechsel`, `!Help`, etc. sind definiert.
