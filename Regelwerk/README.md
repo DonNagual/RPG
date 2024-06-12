@@ -1,6 +1,6 @@
 # Regelwerk
 
-## Einleitung zum Regelwerk für die Interaktion mit dem KI-Assistenten
+## Einleitung zum Regelwerk
 
 Dieses Dokument dient als Leitfaden für die Interaktion zwischen dem Benutzer und dem KI-Assistenten innerhalb dieses textbasierten Rollenspielprojekts (RPG). Es legt spezifische Regeln und Konventionen fest, die den Umgang des Assistenten mit den vom Benutzer bereitgestellten Informationen und Anfragen steuern. Ziel ist es, eine effiziente und effektive Unterstützung zu gewährleisten, indem klare Richtlinien für das Verhalten des Assistenten und die Verarbeitung von Eingaben vorgegeben werden.
 
