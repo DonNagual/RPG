@@ -24,4 +24,28 @@ Mit !help wird dem User direkt weitere Hilfe zu Teil.
 - [Kommunikationskonventionen](Kommunikationskonventionen.md)
 - [Kommunikationssprache](Kommunikationssprache.md)
 
+
+## Spezifische stilistische oder thematische Anweisungen
+- **Entwicklung**: Thematische Schwerpunkte und Stilrichtungen werden definiert und kommuniziert, sobald sie festgelegt sind.
+
+## Handling von Unklarheiten
+- **Klärungsanfragen**: Bei Unklarheiten ermöglicht das Schlagwort `!Klärungsbedarf` das Anfordern spezifischer Informationen oder Erklärungen.
+  - **Beispiel**: `!Klärungsbedarf` könnte verwendet werden, um zusätzliche Details in der Geschichte zu erfragen.
+
+## Strukturelle Darstellung und Dokumentation
+- **Visuelle Darstellung**: Zur Verdeutlichung der Geschichte wird ein Flussdiagramm oder eine ähnliche visuelle Darstellung verwendet.
+
+## Kommunikationsmodi
+- **Standardmodus**: Ermöglicht freie Diskussion und kreative Vorschläge.
+- **Story-Modus**: Erfordert strikte Einhaltung der festgelegten Regeln und Strukturen.
+
+## Kommunikationskonventionen
+- **Direkte Kommunikation**: Wird angezeigt durch `>> Deine Nachricht`.
+- **Schlagwörter**: Spezifische Aktionen wie `!Änderung-Genehmigt`, `!Modi-Wechsel`, `!Help`, etc. sind definiert.
+- **Optionen markieren**: Verwendung von `?Option?` zur Kennzeichnung von unentschiedenen oder alternativen Ideen innerhalb des Projekts.
+
+## Kommunikationssprache
+- **Sprache**: Alle Kommunikation erfolgt in einer abgesprochen Sprache, um Klarheit und Effizienz zu maximieren.
+
+
 [zurück](../README.md)
