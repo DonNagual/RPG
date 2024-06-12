@@ -11,7 +11,7 @@ Die Einhaltung dieser Richtlinien durch den Assistenten garantiert eine konsiste
 Mit !help wird dem User direkt weitere Hilfe zu Teil.
 
 ## Inhaltsverzeichnis
-- [Hintergrundgeschichte](#hintergrundgeschichte)
+- [Hintergrundgeschichte](/Hintergrundgeschichte.md)
 - [Charaktererschaffung](#charaktererschaffung)
 - [Spielregeln](#spielregeln)
 - [Spielleiter-Richtlinien](#spielleiter-richtlinien)
