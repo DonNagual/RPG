@@ -15,7 +15,7 @@ Mit !help wird dem User direkt weitere Hilfe zu Teil.
 - [Charaktererschaffung](#charaktererschaffung)
 - [Spielregeln](#spielregeln)
 - [Spielleiter-Richtlinien](#spielleiter-richtlinien)
-- [Kommunikationsregeln](/kommunikationsregeln)
+- [Kommunikationsregeln](/kommunikationsregeln.md)
 - [Spezifische stilistische oder thematische Anweisungen](#spezifische-stilistische-oder-thematische-anweisungen)
 - [Handling von Unklarheiten](#handling-von-unklarheiten)
 - [Markierung der Erzählstränge](#markierung-der-erzählstränge)
