@@ -1,4 +1,4 @@
-Inhaltsverzeichnis
+# Inhaltsverzeichnis
 
 - [Hintergrundgeschichte](Hintergrundgeschichte.md)
 - [Charaktere](Charaktere.md)
