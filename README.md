@@ -34,6 +34,10 @@ Hier geht es direkt zum [Regelwerk](Regelwerk/README.md)
    git clone https://github.com/DonNagual/RPG.git
    ```
 
+## Kontakt
+
+Bei Fragen oder Feedback zum Projekt, kontaktiere bitte DonNagual unter stonedbull@gmail.com.
+
 ## Lizenz
 
 Dieses Projekt steht unter der MIT-Lizenz. Weitere Informationen findest du in der [LICENSE](LICENSE.md) Datei.
