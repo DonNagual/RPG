@@ -44,7 +44,7 @@ In diesem Spiel verwenden wir ein Python-Skript (`decision_maker.py`), um bestim
 - **Andere Berechnungen**: Weitere spielrelevante Berechnungen.
 
 Um das Skript zu verwenden, klone das Repository und führe das Skript gemäß den Anweisungen in der `README.md` Datei aus.
-
+```
 
 ## Lizenz
 
