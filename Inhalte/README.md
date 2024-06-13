@@ -1,4 +1,4 @@
-# Spiel_Inhalt
+# Spiel Inhalt
 
 Hier findest du alle wichtigen Informationen und Materialien, die für das Spiel benötigt werden.
 
