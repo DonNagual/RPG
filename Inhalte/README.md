@@ -13,4 +13,5 @@ Hier findest du alle wichtigen Informationen und Materialien, die für das Spiel
 - [Quests](Quests.md)
 - [Zauber](Zauber.md)
 - [Artwork](Artwork.md)
+- [Bestiarium](Bestiarium.md)
 - 
