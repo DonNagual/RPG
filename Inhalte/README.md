@@ -1,5 +1,7 @@
 # Spiel_Inhalt
 
+Hier findest du alle wichtigen Informationen und Materialien, die für das Spiel benötigt werden.
+
 ## Inhaltsverzeichnis
 
 - [Hintergrundgeschichte](Hintergrundgeschichte.md)
