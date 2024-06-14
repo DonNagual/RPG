@@ -27,6 +27,8 @@ Hier geht es direkt zum [Regelwerk](Regelwerk/README.md)
 - `Regelwerk.md`: Das Regelwerk für die Interaktion mit dem KI-Assistenten.
 - Weitere Dateien, die spezifische Aspekte des Spiels abdecken, wie z.B. Zauber, Gegenstände, Quests, etc.
 
+Hier geht es direkt zum [Inhalt](Inhalt/README.md)
+
 ## Nutzung des Repositories
 
 **Repository klonen**: Klone dieses Repository auf deinen lokalen Computer, um die Dateien zu bearbeiten und zu verwenden.
