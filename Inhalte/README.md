@@ -14,4 +14,9 @@ Hier findest du alle wichtigen Informationen und Materialien, die für das Spiel
 - [Zauber](Zauber.md)
 - [Artwork](Artwork.md)
 - [Bestiarium](Bestiarium.md)
-- 
+- [Erweiterungen](Erweiterungen.md)
+- [Gegenstände](Gegenstände.md)
+- [Karten](Karten.md)
+- [NPCs](NPCs.md)
+- [Regeln und Mechanike](Regeln_und_Mechanike.md)
+
