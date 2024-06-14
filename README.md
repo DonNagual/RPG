@@ -38,10 +38,13 @@ Hier geht es direkt zu den [Inhalten](Inhalte/README.md)
 
 ## Nutzung des Repositories
 
-**Repository klonen**: Klone dieses Repository auf deinen lokalen Computer, um die Dateien zu bearbeiten und zu verwenden.
+**Eigene Branch erstellen**: Erstelle eine eigene Branch, um deine Geschichte zu entwickeln und später in das Hauptrepository einzufügen.
    ```bash
    git clone https://github.com/DonNagual/RPG.git
+   cd RPG
+   git checkout -b dein-branch-name
    ```
+
 ## Mitmachen und Beitragen
 
 Wir laden euch herzlich ein, dieses Projekt zu einem echten Community-Projekt zu machen. Arbeitet mit uns zusammen, teilt eure Visionen und lasst uns gemeinsam eine Plattform schaffen, die Kreativität und Leidenschaft für verschiedene Arten von Abenteuern fördert. Eure Ideen und Beiträge sind entscheidend, um das Projekt weiterzuentwickeln und zu verbessern.
