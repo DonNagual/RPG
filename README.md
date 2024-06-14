@@ -42,6 +42,11 @@ Hier geht es direkt zu den [Inhalten](Inhalte/README.md)
    ```bash
    git clone https://github.com/DonNagual/RPG.git
    ```
+## Mitmachen und Beitragen
+
+Wir laden euch herzlich ein, dieses Projekt zu einem echten Community-Projekt zu machen. Arbeitet mit uns zusammen, teilt eure Visionen und lasst uns gemeinsam eine Plattform schaffen, die Kreativität und Leidenschaft für verschiedene Arten von Abenteuern fördert. Eure Ideen und Beiträge sind entscheidend, um das Projekt weiterzuentwickeln und zu verbessern.
+
+Wenn du also eine spannende Idee hast oder schon immer eine eigene Geschichte erzählen wolltest, mach mit! Weitere Details folgen in Kürze. Wir freuen uns auf deine Teilnahme und deine Geschichten!
 
 ## Kontakt
 
