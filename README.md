@@ -2,7 +2,14 @@
 
 ## Einleitung
 
-Willkommen in unserem GitHub Repository für das textbasierte Rollenspiel (RPG), bei dem ChatGPT als Spielleiter fungiert. Dieses Projekt kombiniert kreative Schreibarbeit mit interaktiver KI-Unterstützung, um ein immersives Spielerlebnis zu schaffen.
+Willkommen in unserem GitHub Repository für das textbasierte Rollenspiel (RPG), bei dem ChatGPT als Spielleiter fungiert. Dieses Projekt kombiniert kreative Schreibarbeit mit interaktiver KI-Unterstützung, um ein immersives Spielerlebnis zu schaffen.<br>
+**Alle Inhalte und das RPG sind für alle Altersklassen geeignet und enthalten keine Erwachsenen-Inhalte.**
+
+## Suche nach kreativen Köpfen: Erzähle deine eigene Geschichte!
+
+Hallo liebe Spieleentwickler und Geschichtenerzähler,
+
+wir suchen leidenschaftliche Geschichtenerzähler und kreative Köpfe, die ihre eigenen Abenteuer erschaffen und mit anderen teilen möchten. Mit Hilfe unseres Repositories RPG bieten wir dir die Möglichkeit, deine eigenen Geschichten zu entwickeln und sie anderen Spielern zugänglich zu machen.
 
 ## Projektübersicht
 
@@ -31,10 +38,19 @@ Hier geht es direkt zu den [Inhalten](Inhalte/README.md)
 
 ## Nutzung des Repositories
 
-**Repository klonen**: Klone dieses Repository auf deinen lokalen Computer, um die Dateien zu bearbeiten und zu verwenden.
+**Eigene Branch erstellen**: Erstelle eine eigene Branch, um deine Geschichte zu entwickeln.
+
    ```bash
    git clone https://github.com/DonNagual/RPG.git
+   cd RPG
+   git checkout -b dein-branch-name
    ```
+
+## Mitmachen und Beitragen
+
+Wir laden euch herzlich ein, dieses Projekt zu einem echten Community-Projekt zu machen. Arbeitet mit uns zusammen, teilt eure Visionen und lasst uns gemeinsam eine Plattform schaffen, die Kreativität und Leidenschaft für verschiedene Arten von Abenteuern fördert. Eure Ideen und Beiträge sind entscheidend, um das Projekt weiterzuentwickeln und zu verbessern.
+
+Wenn du also eine spannende Idee hast oder schon immer eine eigene Geschichte erzählen wolltest, mach mit! Weitere Details folgen in Kürze. Wir freuen uns auf deine Teilnahme und deine Geschichten!
 
 ## Kontakt
 
