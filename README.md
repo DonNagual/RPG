@@ -38,7 +38,8 @@ Hier geht es direkt zu den [Inhalten](Inhalte/README.md)
 
 ## Nutzung des Repositories
 
-**Eigene Branch erstellen**: Erstelle eine eigene Branch, um deine Geschichte zu entwickeln und später in das Hauptrepository einzufügen.
+**Eigene Branch erstellen**: Erstelle eine eigene Branch, um deine Geschichte zu entwickeln.
+
    ```bash
    git clone https://github.com/DonNagual/RPG.git
    cd RPG
