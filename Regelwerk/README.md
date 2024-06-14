@@ -17,5 +17,6 @@ Mit !help wird dem User direkt weitere Hilfe zu Teil.
 - [Spielleiter-Richtlinien](Spielleiter.md)
 - [Kommunikationsregeln](Kommunikationsregeln.md)
 - [Kommunikationskonventionen](Kommunikationskonventionen.md)
+- [Tutorials](Tutorials.md)
 
 [zurück](../README.md)
