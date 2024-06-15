@@ -4,7 +4,7 @@ Hier findest du alle wichtigen Informationen und Materialien, die für das Spiel
 
 ## Inhaltsverzeichnis
 
-- [Hintergrundgeschichte](Hintergrundgeschichte)
+- [Hintergrundgeschichte](#Hintergrundgeschichte)
 - [Charaktere](Charaktere.md)
 - [Orte](Orte.md)
 - [Ereignisse](Ereignisse.md)
