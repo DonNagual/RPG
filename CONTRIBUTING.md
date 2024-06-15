@@ -40,6 +40,8 @@ git push origin feature/dein-feature-name
 
 Erstelle einen Pull Request in unserem Repository.
 
+---
+
 ### Rollenbasierter Zugriff
 
 Um sicherzustellen, dass nur bestimmte Benutzer auf bestimmte Bereiche zugreifen und Änderungen vornehmen können, haben wir folgende Rollen definiert:
