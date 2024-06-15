@@ -4,7 +4,7 @@ Hier findest du alle wichtigen Informationen und Materialien, die für das Spiel
 
 ## Inhaltsverzeichnis
 
-- [Hintergrundgeschichte](Hintergrundgeschichte.md)
+- [Hintergrundgeschichte]
 - [Charaktere](Charaktere.md)
 - [Orte](Orte.md)
 - [Ereignisse](Ereignisse.md)
@@ -19,5 +19,7 @@ Hier findest du alle wichtigen Informationen und Materialien, die für das Spiel
 - [Karten](Karten.md)
 - [NPCs](NPCs.md)
 - [Regeln und Mechanike](Regeln_und_Mechanike.md)
+
+# Hintergrundgeschichte
 
 [zurück](../README.md)
