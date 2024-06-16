@@ -1,6 +1,3 @@
-# FAQs
-
-```markdown
 # Häufig gestellte Fragen (FAQs)
 
 ## Allgemeine Fragen
