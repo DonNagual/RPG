@@ -1,3 +1,14 @@
+# Kommunikationskonventionen
+
+## Allgemeine Regeln
+Beschreibung der allgemeinen Kommunikationsregeln innerhalb der Community.
+
+## Spielinterne Kommunikation
+Regeln und Standards für die Kommunikation während des Spiels, einschließlich Formatierung und Sprachgebrauch.
+
+## Konfliktlösung
+Prozesse und Methoden zur Lösung von Konflikten innerhalb der Community.
+
 ## Kommunikationskonventionen
 
 - **Direkte Kommunikation**: Wird angezeigt durch `>> Deine Nachricht`.
