@@ -9,11 +9,9 @@ Diese Regeln und Konventionen dienen dazu, eine klare und effektive Kommunikatio
 ### Interaktion mit dem Gamemaster
 
 - **Direkte Befehle**: Verwenden Sie `!` vor einem Befehl, um eine Aktion direkt an den Gamemaster zu richten.
-  - **Beispiel**: `!Angriff`, `!Info`, `!Klärungsbedarf`
-  - **Beschreibende Texte**: Schreiben Sie beschreibende Texte in normalen Sätzen.
-  - **Beispiel**: `Ich untersuche den alten Schreibtisch im Raum.`
+  - **Beispiel**: `!Info`, `!Klärungsbedarf`
 
-### Kommunikation mit Charakteren
+### Kommunikation im Spiel
 
 - **Gesprochene Worte**: Verwenden Sie Anführungszeichen, um zu kennzeichnen, wenn Ihr Charakter spricht.
   - **Beispiel**: `"Guten Morgen, wie geht es dir?"`
@@ -27,31 +25,14 @@ Diese Regeln und Konventionen dienen dazu, eine klare und effektive Kommunikatio
 - **!Info**: Fordert spezifische Informationen an.
   - **Beispiel**: `!Info: Was sehe ich in diesem Raum?`
 - **!Klärungsbedarf**: Fordert weitere Informationen oder Klärungen zu bestimmten Aspekten der Geschichte an.
-  - **Beispiel**: `!Klärungsbedarf: Kannst du die Motivation von Tom in der Szene auf Seite 12 näher erläutern?`
+  - **Beispiel**: `!Klärungsbedarf`: Was sind die wichtigsten Merkmale dieses Charakters?`
+
 - **!Help**: Zeigt eine Liste aller verfügbaren Befehle und Schlagwörter an.
   - **Beispiel**: `!Help`
 
-## Formatierung
-
-- **Direkte Kommunikation mit dem Gamemaster**: Verwenden Sie `!` vor einem Befehl.
-  - **Beispiel**: `!Angriff`
-- **Gesprochene Worte**: Verwenden Sie Anführungszeichen.
-  - **Beispiel**: `"Wir müssen sofort handeln!"`
-- **Gefühle und Gedanken**: Verwenden Sie Sternchen.
-  - **Beispiel**: `*Ich hoffe, dass dies der richtige Weg ist.*`
-- **Beschreibende Texte**: Normale Sätze.
-  - **Beispiel**: `Ich gehe langsam auf die Tür zu und öffne sie vorsichtig.`
-
-## Spezifische stilistische oder thematische Anweisungen
-
-- **Entwicklung**: Thematische Schwerpunkte und Stilrichtungen werden definiert und kommuniziert, sobald sie festgelegt sind.
-
-## Handling von Unklarheiten
-
-- **Klärungsanfragen**: Bei Unklarheiten ermöglicht das Schlagwort `!Klärungsbedarf` das Anfordern spezifischer Informationen oder Erklärungen.
-  - **Beispiel**: `!Klärungsbedarf: Was sind die wichtigsten Merkmale dieses Charakters?`
-
 ### Detaillierte Beschreibungen der Schlagwörter
+
+### !Info
 
 #### !Klärungsbedarf
 
