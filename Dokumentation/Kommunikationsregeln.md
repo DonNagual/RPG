@@ -25,25 +25,23 @@ Diese Regeln und Konventionen dienen dazu, eine klare und effektive Kommunikatio
 - **!Info**: Fordert spezifische Informationen an.
   - **Beispiel**: `!Info: Was sehe ich in diesem Raum?`
 - **!Klärungsbedarf**: Fordert weitere Informationen oder Klärungen zu bestimmten Aspekten der Geschichte an.
-  - **Beispiel**: `!Klärungsbedarf`: Was sind die wichtigsten Merkmale dieses Charakters?`
-
+  - **Beispiel**: `!Klärungsbedarf: Was sind die wichtigsten Merkmale dieses Charakters?`
 - **!Help**: Zeigt eine Liste aller verfügbaren Befehle und Schlagwörter an.
   - **Beispiel**: `!Help`
 
 ### Detaillierte Beschreibungen der Schlagwörter
 
-### !Info
-- **Zweck**:
+#### !Info
 
-- **Erwartete Aktion**:
-
-- **Beispiel**:
+- **Zweck**: Der Spieler fordert spezifische Informationen über die Umgebung, Charaktere oder Ereignisse an.
+- **Erwartete Aktion**: Der Gamemaster gibt detaillierte Beschreibungen oder relevante Informationen.
+- **Beispiel**: `!Info: Was sehe ich in diesem Raum?`
 
 #### !Klärungsbedarf
 
-- **Zweck**: Fordert weitere Informationen oder Klärungen zu bestimmten Aspekten der Geschichte an.
-- **Erwartete Aktion**: Der Gamemaster stellt spezifische Fragen oder bittet um weitere Details, um Unklarheiten zu beseitigen.
-- **Beispiel**: `!Klärungsbedarf`: Kannst du die Motivation von Tom in der Szene auf Seite 12 näher erläutern?`
+- **Zweck**: Der Spieler fordert weitere Informationen oder Klärungen zu bestimmten Aspekten der Geschichte an.
+- **Erwartete Aktion**: Der Gamemaster gibt spezifische Informationen und weitere Details, um Unklarheiten zu beseitigen.
+- **Beispiel**: `!Klärungsbedarf: Was sind die wichtigsten Merkmale dieses Charakters?`
 
 #### !Help
 
