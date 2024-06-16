@@ -1,4 +1,4 @@
-# Einführung in die Geschichte 1
+# Einführung in die Geschichte
 
 ## Titel der Geschichte
 Kurze Einführung und Setting der Geschichte.
