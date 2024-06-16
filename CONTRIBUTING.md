@@ -47,13 +47,13 @@ Erstelle einen Pull Request in unserem Repository.
 Um sicherzustellen, dass nur bestimmte Benutzer auf bestimmte Bereiche zugreifen und Änderungen vornehmen können, haben wir folgende Rollen definiert:
 
 - Storytelling und Content-Erstellung:
-  - Zugriff auf Inhalte/ @username_or_team
+  - Zugriff auf Inhalte
 - Programmierung und Tools:
-  - Zugriff auf Python/ @username_or_team
+  - Zugriff auf Python
 - Regelwerk und Mechaniken:
-  - Zugriff auf Regelwerk/ @username_or_team
+  - Zugriff auf Regelwerk
  -Unreal Engine Entwickler:
-  - Zugriff auf Unreal/ @username_or_team
+  - Zugriff auf Unreal
 
 Wenn du spezifische Berechtigungen benötigst, kontaktiere bitte einen der Maintainer des Projekts.
 
