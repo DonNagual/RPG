@@ -21,6 +21,3 @@ Diese Datei enthält die allgemeinen Regeln und Richtlinien für das RPG.
 ## Magie und Fähigkeiten
 - **Zaubersprüche**: Regeln für das Wirken von Zaubersprüchen.
 - **Spezialfähigkeiten**: Nutzung und Einsatz von Spezialfähigkeiten.
-
-## Leveln
-- **Level-Aufstieg**: Durch das Sammeln von Erfahrungspunkten (XP) steigen die Spieler im Level auf und verbessern ihre Fähigkeiten.
