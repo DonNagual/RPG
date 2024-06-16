@@ -2,8 +2,7 @@
 
 ## Einleitung
 
-Willkommen in unserem GitHub Repository für das textbasierte Rollenspiel (RPG), bei dem ChatGPT als Spielleiter fungiert. Dieses Projekt kombiniert kreative Schreibarbeit mit interaktiver KI-Unterstützung, um ein immersives Spielerlebnis zu schaffen.<br>
-**Alle Inhalte und das RPG sind für alle Altersklassen geeignet und enthalten keine Erwachsenen-Inhalte.**
+Willkommen in unserem GitHub Repository für das textbasierte Rollenspiel (RPG), bei dem ChatGPT als Spielleiter fungiert. Dieses Projekt kombiniert kreative Schreibarbeit mit interaktiver KI-Unterstützung, um ein immersives Spielerlebnis zu schaffen. **Alle Inhalte und das RPG sind für alle Altersklassen geeignet und enthalten keine Erwachsenen-Inhalte.**
 
 ## Suche nach kreativen Köpfen: Erzähle deine eigene Geschichte!
 
@@ -15,36 +14,89 @@ wir suchen leidenschaftliche Geschichtenerzähler und kreative Köpfe, die ihre 
 
 Dieses Repository enthält alle notwendigen Dateien und Informationen, um ein textbasiertes RPG zu erstellen und zu spielen. Die Hauptkomponenten des Projekts sind:
 
-- **Hintergrundgeschichte**: Eine Einführung in die Welt und das Setting des Spiels.
-- **Charaktererschaffung**: Richtlinien zur Erstellung von Charakteren, einschließlich Rassen, Klassen, Attributen und Hintergrundgeschichten.
-- **Spielregeln**: Die grundlegenden Mechaniken des Spiels, einschließlich Kampf, Magie, Fertigkeitsproben und Level-Aufstieg.
-- **Orte**: Beschreibungen der verschiedenen Orte und Schauplätze innerhalb der Spielwelt.
-- **Charaktere**: Details zu wichtigen Charakteren im Spiel, sowohl Spielercharaktere als auch Nicht-Spieler-Charaktere (NSCs).
-- **Spielerinteraktion**: Regeln und Konventionen zur Interaktion zwischen den Spielern und ChatGPT als Spielleiter.
+- **Welten**: Enthält alle Welten, die von der Community erstellt wurden.
+- **Geschichten**: Enthält die spezifischen Geschichten, Quests und Abenteuer innerhalb der Welten.
+- **Regeln und Mechaniken**: Beinhaltet die allgemeinen Spielregeln, Mechaniken und Anleitungen.
+- **Charaktere und NPCs**: Beschreibungen und Informationen zu den Charakteren und NPCs.
+- **Karten und Visuals**: Karten der Spielwelt und visuelle Darstellungen.
+- **Dokumentation und Tutorials**: Anleitungen und Tutorials für neue Mitwirkende und Spieler.
 
-Hier geht es direkt zum [Regelwerk](Regelwerk/README.md)
+## Inhaltsverzeichnis
 
-## Dateien im Repository
+- [Welten](#welten)
+- [Geschichten](#geschichten)
+- [Regeln und Mechaniken](#regeln-und-mechaniken)
+- [Charaktere und NPCs](#charaktere-und-npcs)
+- [Karten und Visuals](#karten-und-visuals)
+- [Dokumentation und Tutorials](#dokumentation-und-tutorials)
+- [Community-Richtlinien](#community-richtlinien)
+- [Beitragen](#beitragen)
+- [Kontakt](#kontakt)
+- [Lizenz](#lizenz)
 
-- `Hintergrundgeschichte.md`: Die Hintergrundgeschichte und das Setting des Spiels.
-- `Charaktererschaffung.md`: Richtlinien und Regeln zur Erstellung von Charakteren.
-- `Spielregeln.md`: Die grundlegenden Mechaniken des Spiels.
-- `Orte.md`: Beschreibungen der verschiedenen Orte und Schauplätze.
-- `Charaktere.md`: Details zu wichtigen Charakteren im Spiel.
-- `Regelwerk.md`: Das Regelwerk für die Interaktion mit dem KI-Assistenten.
-- Weitere Dateien, die spezifische Aspekte des Spiels abdecken, wie z.B. Zauber, Gegenstände, Quests, etc.
+## Welten
 
-Hier geht es direkt zu den [Inhalten](Inhalte/README.md)
+Jede Welt wird von der Community erstellt und enthält spezifische Details und Regeln. Hier sind einige der Hauptkomponenten jeder Welt:
+- **Beschreibung**: Eine Einführung in die Welt.
+- **Gegenstände**: Waffen, Rüstungen, Schmuck und andere Gegenstände.
+- **Geschichten**: Verschiedene Geschichten und Erzählstränge, die in der Welt spielen.
+- **Orte**: Beschreibungen der verschiedenen Orte und Schauplätze innerhalb der Welt.
+- **Charaktere und NPCs**: Details zu wichtigen Charakteren und Nicht-Spieler-Charakteren (NPCs).
+- **Elemente**: Magie, Technologie und Artefakte, die in der Welt existieren.
+- **Karten**: Visuelle Darstellungen der Welt und ihrer Orte.
+- **Assets**: Bilder und Sounds zur Unterstützung der Atmosphäre.
+
+## Geschichten
+
+Geschichten sind spezifische Quests und Abenteuer, die in den Welten spielen. Jede Geschichte enthält:
+- **Einführung**: Eine kurze Einführung in die Geschichte.
+- **Kapitel**: Detaillierte Beschreibungen der einzelnen Kapitel.
+- **Quests**: Aufgaben und Missionen, die die Spieler erfüllen müssen.
+- **Ereignisse**: Wichtige Ereignisse und Wendepunkte in der Geschichte.
+- **Erzählstränge**: Haupt- und Nebenstränge, die die Geschichte strukturieren.
+
+## Regeln und Mechaniken
+
+Dieses Projekt legt die allgemeinen Spielregeln und Mechaniken fest, die für alle Welten gelten. Dazu gehören:
+- **Spielregeln**: Grundlegende Regeln des Spiels.
+- **Mechaniken**: Detaillierte Spielmechaniken.
+- **Fähigkeiten**: Beschreibung der verschiedenen Fähigkeiten, die Charaktere haben können.
+- **Kampf**: Regeln und Mechaniken für den Kampf.
+
+## Charaktere und NPCs
+
+Hier finden Sie Beschreibungen und Informationen zu den Charakteren und NPCs in den Welten:
+- **Charaktere**: Spielercharaktere und ihre Fähigkeiten, Attribute und Hintergrundgeschichten.
+- **NPCs**: Nicht-Spieler-Charaktere und ihre Rolle in der Welt.
+
+## Karten und Visuals
+
+Dieses Projekt enthält Karten der Spielwelt und visuelle Darstellungen, um die Spielerfahrung zu verbessern:
+- **Karten**: Visuelle Darstellungen der Welt und ihrer Orte.
+- **Artwork**: Illustrationen und andere visuelle Elemente.
+
+## Dokumentation und Tutorials
+
+Anleitungen und Tutorials helfen neuen Mitwirkenden und Spielern, sich schnell zurechtzufinden:
+- **Einstieg**: Schritt-für-Schritt-Anleitungen für den Einstieg ins Projekt.
+- **FAQs**: Häufig gestellte Fragen und Antworten.
+
+## Community-Richtlinien
+
+Richtlinien für das Verhalten innerhalb der Community, um eine positive und produktive Umgebung zu gewährleisten:
+- **Verhalten**: Erwartetes Verhalten und Verhaltenskodex.
+- **Beiträge**: Richtlinien für das Einbringen von Beiträgen und Feedback.
+- **Moderation**: Informationen zur Moderation und Durchsetzung der Richtlinien.
 
 ## Nutzung des Repositories
 
 **Eigene Branch erstellen**: Erstelle eine eigene Branch, um deine Geschichte zu entwickeln.
 
-   ```bash
+```bash
    git clone https://github.com/DonNagual/RPG.git
    cd RPG
    git checkout -b dein-branch-name
-   ```
+```
 
 ## Mitmachen und Beitragen
 
