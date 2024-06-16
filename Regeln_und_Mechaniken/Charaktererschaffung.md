@@ -45,8 +45,20 @@ Erläutere, wie die Spieler eine Hintergrundgeschichte für ihre Charaktere schr
 - **Motivation**: Was treibt den Charakter an? Welche Ziele verfolgt er?
 - **Persönliche Ziele**: Kurzfristige und langfristige Ziele des Charakters.
 
+### Ausrüstung
+Definiere, wie Spieler die Ausrüstung ihrer Charaktere wählen können. Dies umfasst Waffen, Rüstungen, Schmuck und andere nützliche Gegenstände.
+
+- **Waffen**: Beschreibe die verschiedenen Waffentypen, die in der Welt existieren, und ihre Eigenschaften.
+  - **Beispiel**: Schwert, Bogen, Axt, Dolch
+- **Rüstungen**: Beschreibe die verschiedenen Arten von Rüstungen und ihre Schutzeigenschaften.
+  - **Beispiel**: Leder, Kette, Platte
+- **Schmuck**: Beschreibe die verschiedenen Arten von Schmuck und ihre möglichen magischen Eigenschaften.
+  - **Beispiel**: Ringe, Amulette, Talismane
+- **Sonstige Gegenstände**: Andere nützliche Gegenstände, die die Charaktere mit sich führen können.
+  - **Beispiel**: Heiltränke, Werkzeuge, magische Artefakte
+
 ### Beispiel für einen Charakterbogen
-Ein Beispiel für einen ausgefüllten Charakterbogen, um zu zeigen, wie ihre Charaktere aussehen könnten.
+Biete ein Beispiel für einen ausgefüllten Charakterbogen, um den Spielern zu zeigen, wie ihre Charaktere aussehen könnten.
 
 #### Charaktername: Arin
 
@@ -66,3 +78,9 @@ Ein Beispiel für einen ausgefüllten Charakterbogen, um zu zeigen, wie ihre Cha
   - Herkunft: Arin stammt aus einem kleinen Dorf im Elfenwald. Seine Familie ist bekannt für ihre magischen Fähigkeiten.
   - Motivation: Arin sucht nach Wissen und mächtigen Artefakten, um seine magischen Fähigkeiten zu verbessern.
   - Persönliche Ziele: Kurzfristig möchte Arin einen alten Zauberstab finden, von dem er in einem Buch gelesen hat. Langfristig strebt er danach, der mächtigste Magier seiner Zeit zu werden.
+
+- **Ausrüstung**:
+  - Waffen: Zauberstab, Dolch
+  - Rüstungen: Robe, Lederschutz
+  - Schmuck: Ring der Weisheit
+  - Sonstige Gegenstände: Heiltrank, Magiebuch
