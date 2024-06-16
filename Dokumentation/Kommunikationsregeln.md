@@ -2,12 +2,17 @@
 
 Erkläre, wie die Interaktion zwischen den Spielern und dem Spielleiter abläuft, einschließlich spezifischer Befehle oder Schlagwörter, die verwendet werden sollen.
 
+## Spielinterne Kommunikation
+Detaillierte Regeln für die Kommunikation während des Spiels, einschließlich spezifischer Anweisungen für die Interaktion mit dem Gamemaster.
+
+## Formatierung
+Vorgaben für die Formatierung von Nachrichten und Aktionen im Spiel.
+
 ### Wie die Spieler mit ChatGPT interagieren:
 
 - **Befehle**: Spieler verwenden spezifische Schlagwörter, um Aktionen zu deklarieren, z.B. `!Angriff`, `!Zauber`, `!Fertigkeit`.
 - **Beschreibungen**: Spieler beschreiben ihre Aktionen detailliert, damit ChatGPT angemessen darauf reagieren kann.
 - **Anfragen**: Spieler können spezifische Informationen oder Klärungen mit `!Info` oder `!Klärungsbedarf` anfordern.
-
 
 ### Spezifische stilistische oder thematische Anweisungen
 - **Entwicklung**: Thematische Schwerpunkte und Stilrichtungen werden definiert und kommuniziert, sobald sie festgelegt sind.
