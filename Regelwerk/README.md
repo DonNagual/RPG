@@ -9,14 +9,3 @@ Hier finden Sie Richtlinien zur Charaktererschaffung, zu den Spielregeln, zur Ha
 Die Einhaltung dieser Richtlinien durch den Assistenten garantiert eine konsistente und zielgerichtete Unterstützung während des gesamten Entwicklungsprozesses des RPGs. Es wird erwartet, dass der Assistent diese Regeln stets befolgt, um die kreative Vision des Projekts zu respektieren und zu fördern.
 
 Mit !help wird dem User direkt weitere Hilfe zu Teil.
-
-## Inhaltsverzeichnis
-
-- [Charaktererschaffung](Charaktererschaffung.md)
-- [Spielregeln](Spielregeln.md)
-- [Spielleiter-Richtlinien](Spielleiter.md)
-- [Kommunikationsregeln](Kommunikationsregeln.md)
-- [Kommunikationskonventionen](Kommunikationskonventionen.md)
-- [Tutorials](Tutorials.md)
-
-[zurück](../README.md)
