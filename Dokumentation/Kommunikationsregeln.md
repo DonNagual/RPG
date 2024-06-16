@@ -33,12 +33,17 @@ Diese Regeln und Konventionen dienen dazu, eine klare und effektive Kommunikatio
 ### Detaillierte Beschreibungen der Schlagwörter
 
 ### !Info
+- **Zweck**:
+
+- **Erwartete Aktion**:
+
+- **Beispiel**:
 
 #### !Klärungsbedarf
 
 - **Zweck**: Fordert weitere Informationen oder Klärungen zu bestimmten Aspekten der Geschichte an.
 - **Erwartete Aktion**: Der Gamemaster stellt spezifische Fragen oder bittet um weitere Details, um Unklarheiten zu beseitigen.
-- **Beispiel**: `!Klärungsbedarf: Kannst du die Motivation von Tom in der Szene auf Seite 12 näher erläutern?`
+- **Beispiel**: `!Klärungsbedarf`: Kannst du die Motivation von Tom in der Szene auf Seite 12 näher erläutern?`
 
 #### !Help
 
