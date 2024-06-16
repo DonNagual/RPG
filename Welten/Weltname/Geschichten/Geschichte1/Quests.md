@@ -1,4 +1,4 @@
-# Quests der Geschichte 1
+# Quests der Geschichte
 
 ## Hauptquests
 Liste und Beschreibung der Hauptquests.
