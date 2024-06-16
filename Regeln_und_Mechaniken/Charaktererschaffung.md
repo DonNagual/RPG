@@ -46,7 +46,7 @@ Erläutere, wie die Spieler eine Hintergrundgeschichte für ihre Charaktere schr
 - **Persönliche Ziele**: Kurzfristige und langfristige Ziele des Charakters.
 
 ### Beispiel für einen Charakterbogen
-Biete ein Beispiel für einen ausgefüllten Charakterbogen, um den Spielern zu zeigen, wie ihre Charaktere aussehen könnten.
+Ein Beispiel für einen ausgefüllten Charakterbogen, um zu zeigen, wie ihre Charaktere aussehen könnten.
 
 #### Charaktername: Arin
 
