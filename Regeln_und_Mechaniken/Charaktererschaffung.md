@@ -28,6 +28,18 @@ Liste die verschiedenen Attribute auf, die die Charaktere haben können. Beschre
 - **Intelligenz**: Bestimmt die Magieaffinität und die Effektivität von Zaubern.
 - **Charisma**: Beeinflusst die sozialen Interaktionen und Überzeugungsfähigkeiten.
 
+### Ausrüstung
+Definiere, wie Spieler die Ausrüstung ihrer Charaktere wählen können. Dies umfasst Waffen, Rüstungen, Schmuck und andere nützliche Gegenstände.
+
+- **Waffen**: Beschreibe die verschiedenen Waffentypen, die in der Welt existieren, und ihre Eigenschaften.
+  - **Beispiel**: Schwert, Bogen, Axt, Dolch
+- **Rüstungen**: Beschreibe die verschiedenen Arten von Rüstungen und ihre Schutzeigenschaften.
+  - **Beispiel**: Leder, Kette, Platte
+- **Schmuck**: Beschreibe die verschiedenen Arten von Schmuck und ihre möglichen magischen Eigenschaften.
+  - **Beispiel**: Ringe, Amulette, Talismane
+- **Sonstige Gegenstände**: Andere nützliche Gegenstände, die die Charaktere mit sich führen können.
+  - **Beispiel**: Heiltränke, Werkzeuge, magische Artefakte
+
 ### Fähigkeiten
 Definiere die spezifischen Fähigkeiten, die Charaktere erlernen und verwenden können. Unterscheide dabei zwischen allgemeinen Fähigkeiten und klassenspezifischen Fähigkeiten.
 
@@ -44,18 +56,6 @@ Erläutere, wie die Spieler eine Hintergrundgeschichte für ihre Charaktere schr
 - **Herkunft**: Beschreibe, woher der Charakter kommt, seine Familie und sein soziales Umfeld.
 - **Motivation**: Was treibt den Charakter an? Welche Ziele verfolgt er?
 - **Persönliche Ziele**: Kurzfristige und langfristige Ziele des Charakters.
-
-### Ausrüstung
-Definiere, wie Spieler die Ausrüstung ihrer Charaktere wählen können. Dies umfasst Waffen, Rüstungen, Schmuck und andere nützliche Gegenstände.
-
-- **Waffen**: Beschreibe die verschiedenen Waffentypen, die in der Welt existieren, und ihre Eigenschaften.
-  - **Beispiel**: Schwert, Bogen, Axt, Dolch
-- **Rüstungen**: Beschreibe die verschiedenen Arten von Rüstungen und ihre Schutzeigenschaften.
-  - **Beispiel**: Leder, Kette, Platte
-- **Schmuck**: Beschreibe die verschiedenen Arten von Schmuck und ihre möglichen magischen Eigenschaften.
-  - **Beispiel**: Ringe, Amulette, Talismane
-- **Sonstige Gegenstände**: Andere nützliche Gegenstände, die die Charaktere mit sich führen können.
-  - **Beispiel**: Heiltränke, Werkzeuge, magische Artefakte
 
 ---
 
