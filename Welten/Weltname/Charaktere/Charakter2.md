@@ -1,13 +1,41 @@
 # Charakter2
 
-## Name
-Name des Charakters.
+## Charakterinformationen
 
-## Hintergrundgeschichte
-Kurze Hintergrundgeschichte.
+- **Name**: [Charaktername]
+- **Rasse**: [Rasse]
+- **Klasse**: [Klasse]
+- **Level**: [Level]
 
-## Fähigkeiten und Fertigkeiten
-Liste der Fähigkeiten und Fertigkeiten.
+## Attribute
 
-## Beziehungen
-Wichtige Beziehungen zu anderen Charakteren.
+- **Stärke**: [Stärke]
+- **Geschicklichkeit**: [Geschicklichkeit]
+- **Intelligenz**: [Intelligenz]
+- **Charisma**: [Charisma]
+
+## Fähigkeiten
+
+- **Allgemeine Fähigkeiten**: 
+  - [Fähigkeit 1]
+  - [Fähigkeit 2]
+- **Klassenspezifische Fähigkeiten**: 
+  - [Fähigkeit 1]
+  - [Fähigkeit 2]
+
+## Hintergrund
+
+- **Herkunft**: [Herkunft]
+- **Motivation**: [Motivation]
+- **Persönliche Ziele**: [Ziele]
+
+## Ausrüstung
+
+- **Waffen**: [Waffen]
+- **Rüstungen**: [Rüstungen]
+- **Schmuck**: [Schmuck]
+- **Sonstige Gegenstände**: [Gegenstände]
+
+## Erfahrungspunkte
+
+- **EP**: [Erfahrungspunkte]
