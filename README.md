@@ -55,6 +55,7 @@ Dieses Projekt legt die allgemeinen Spielregeln und Mechaniken fest, die für al
 - **Kampf**: Regeln und Mechaniken für den Kampf.
 - **Charaktererschaffung**: Beschreibe, wie Spieler ihre Charaktere erstellen können
 - **Charakterbogen**: Bogenvorlage für die Charaktererschaffung
+- **Mechaniken**: Erweiterte Spielmechaniken
 
 
 
