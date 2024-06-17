@@ -16,11 +16,10 @@ wir suchen leidenschaftliche Geschichtenerzähler und kreative Köpfe, die ihre 
 Dieses Repository enthält alle notwendigen Dateien und Informationen, um ein textbasiertes RPG zu erstellen und zu spielen. Die Hauptkomponenten des Projekts sind:
 
 - **Welten**: Enthält alle Welten, die von der Community erstellt wurden.
-- **Geschichten**: Enthält die spezifischen Geschichten, Quests und Abenteuer innerhalb der Welten.
 - **Regeln und Mechaniken**: Beinhaltet die allgemeinen Spielregeln, Mechaniken und Anleitungen.
-- **Charaktere und NPCs**: Beschreibungen und Informationen zu den Charakteren und NPCs.
-- **Karten und Visuals**: Karten der Spielwelt und visuelle Darstellungen.
-- **Dokumentation und Tutorials**: Anleitungen und Tutorials für neue Mitwirkende und Spieler.
+- **Dokumentation**: Alle nötigen Dokumentationen die bei der Welten Erschafung helfen.
+- **Tutorials**: Tutorials für neue Mitwirkende und Spieler.
+- **Tools**: Alle notwendigen Tools, die bei der Weltenentwicklung und im Spiel helfen
 
 ## Inhaltsverzeichnis
 
