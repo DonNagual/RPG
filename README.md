@@ -2,7 +2,7 @@
 
 ## Einleitung
 
-Willkommen in unserem GitHub Repository für das textbasierte Rollenspiel (RPG), bei dem ChatGPT als Spielleiter fungiert. Dieses Projekt kombiniert kreative Schreibarbeit mit interaktiver KI-Unterstützung, um ein immersives Spielerlebnis zu schaffen. <\br> **Alle Inhalte und das RPG sind für alle Altersklassen geeignet und enthalten keine Erwachsenen-Inhalte.**
+Willkommen in unserem GitHub Repository für das textbasierte Rollenspiel (RPG), bei dem ChatGPT als Spielleiter fungiert. Dieses Projekt kombiniert kreative Schreibarbeit mit interaktiver KI-Unterstützung, um ein immersives Spielerlebnis zu schaffen. <br> **Alle Inhalte und das RPG sind für alle Altersklassen geeignet und enthalten keine Erwachsenen-Inhalte.**
 
 ## Suche nach kreativen Köpfen: Erzähle deine eigene Geschichte!
 
