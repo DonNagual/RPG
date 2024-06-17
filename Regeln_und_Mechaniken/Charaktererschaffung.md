@@ -91,22 +91,22 @@ Erläutere, wie die Spieler eine Hintergrundgeschichte für ihre Charaktere schr
   - [Fähigkeit 1]
   - [Fähigkeit 2]
 
-### Erfahrungspunkte
-
-- **EP**: [Erfahrungspunkte]
-
 ### Hintergrund
 
 - **Herkunft**: [Herkunft]
 - **Motivation**: [Motivation]
 - **Persönliche Ziele**: [Ziele]
 
+### Erfahrungspunkte
+
+- **EP**: [Erfahrungspunkte]
+
 ---
 
 ## Beispiel - Charakterbogen
 Biete ein Beispiel für einen ausgefüllten Charakterbogen, um den Spielern zu zeigen, wie ihre Charaktere aussehen könnten.
 
-#### Charakterinformationen
+### Charakterinformationen
 
 - **Name**: Arin
 - **Rasse**: Elf
@@ -120,17 +120,30 @@ Biete ein Beispiel für einen ausgefüllten Charakterbogen, um den Spielern zu z
 - **Intelligenz**: 18
 - **Charisma**: 12
 
-- **Ausrüstung**:
-  - Waffen: Zauberstab, Dolch
-  - Rüstungen: Robe, Lederschutz
-  - Schmuck: Ring der Weisheit
-  - Sonstige Gegenstände: Heiltrank, Magiebuch
+### Ausrüstung
 
-- **Fähigkeiten**:
-  - Allgemeine Fähigkeiten: Reiten, Klettern
-  - Klassenspezifische Fähigkeiten: Feuerball, Teleportation, Beschwörung
+- **Waffen**: Zauberstab, Dolch
+- **Rüstungen**: Robe, Lederschutz
+- **Schmuck**: Ring der Weisheit
+- **Sonstige Gegenstände**: Heiltrank, Magiebuch
 
-- **Hintergrund**:
-  - Herkunft: Arin stammt aus einem kleinen Dorf im Elfenwald. Seine Familie ist bekannt für ihre magischen Fähigkeiten.
-  - Motivation: Arin sucht nach Wissen und mächtigen Artefakten, um seine magischen Fähigkeiten zu verbessern.
-  - Persönliche Ziele: Kurzfristig möchte Arin einen alten Zauberstab finden, von dem er in einem Buch gelesen hat. Langfristig strebt er danach, der mächtigste Magier seiner Zeit zu werden.
+### Fähigkeiten
+
+- **Allgemeine Fähigkeiten**: 
+  - Reiten
+  - Klettern
+- **Klassenspezifische Fähigkeiten**: 
+  - Feuerball
+  - Teleportation
+  - Beschwörung
+
+### Hintergrund
+
+- **Herkunft**: Arin stammt aus einem kleinen Dorf im Elfenwald. Seine Familie ist bekannt für ihre magischen Fähigkeiten.
+- **Motivation**: Arin sucht nach Wissen und mächtigen Artefakten, um seine magischen Fähigkeiten zu verbessern.
+- **Persönliche Ziele**: Kurzfristig möchte Arin einen alten Zauberstab finden, von dem er in einem Buch gelesen hat. Langfristig strebt er danach, der mächtigste Magier seiner Zeit zu werden.
+
+### Erfahrungspunkte
+
+- **EP**: 0
+- 
