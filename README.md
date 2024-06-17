@@ -11,15 +11,6 @@ Hallo liebe Spieleentwickler und Geschichtenerzähler,
 
 wir suchen leidenschaftliche Geschichtenerzähler und kreative Köpfe, die ihre eigenen Abenteuer erschaffen und mit anderen teilen möchten. Mit Hilfe unseres Repositories RPG bieten wir dir die Möglichkeit, deine eigenen Geschichten zu entwickeln und sie anderen Spielern zugänglich zu machen.
 
-## Projektübersicht
-
-Dieses Repository enthält alle notwendigen Dateien und Informationen, um ein textbasiertes RPG zu erstellen und zu spielen. Die Hauptkomponenten des Projekts sind:
-
-- **Welten**: Enthält alle Welten, die von der Community erstellt wurden.
-- **Regeln und Mechaniken**: Beinhaltet die allgemeinen Spielregeln, Mechaniken und Anleitungen.
-- **Dokumentation und Tutorials**: Alle nötigen Dokumentationen und Tutorials, die bei der Welten Erschaffung helfen.
-- **Tools**: Alle notwendigen Tools, die bei der Weltenentwicklung und im Spiel helfen
-
 ## Inhaltsverzeichnis
 
 - [Welten](#welten)
@@ -32,6 +23,16 @@ Dieses Repository enthält alle notwendigen Dateien und Informationen, um ein te
 - [Beitragen](#beitragen)
 - [Kontakt](#kontakt)
 - [Lizenz](#lizenz)
+
+
+## Projektübersicht
+
+Dieses Repository enthält alle notwendigen Dateien und Informationen, um ein textbasiertes RPG zu erstellen und zu spielen. Die Hauptkomponenten des Projekts sind:
+
+- **Welten**: Enthält alle Welten, die von der Community erstellt wurden.
+- **Regeln und Mechaniken**: Beinhaltet die allgemeinen Spielregeln, Mechaniken und Anleitungen.
+- **Dokumentation und Tutorials**: Alle nötigen Dokumentationen und Tutorials, die bei der Welten Erschaffung helfen.
+- **Tools**: Alle notwendigen Tools, die bei der Weltenentwicklung und im Spiel helfen
 
 ## Welten
 
@@ -68,44 +69,6 @@ Anleitungen und Tutorials helfen neuen Mitwirkenden und Spielern, sich schnell z
 ## Tools
 - **Charakter Update**: Ein Python Script der ein Charakter update beim Level aufstieg durchführt
 - **NPC Update**: Ein Python Script der die NPCs den Spieler Level angleicht.
-
-
-
-
-## Geschichten
-
-Geschichten sind spezifische Quests und Abenteuer, die in den Welten spielen. Jede Geschichte enthält:
-- **Einführung**: Eine kurze Einführung in die Geschichte.
-- **Kapitel**: Detaillierte Beschreibungen der einzelnen Kapitel.
-- **Quests**: Aufgaben und Missionen, die die Spieler erfüllen müssen.
-- **Ereignisse**: Wichtige Ereignisse und Wendepunkte in der Geschichte.
-- **Erzählstränge**: Haupt- und Nebenstränge, die die Geschichte strukturieren.
-
-
-## Charaktere und NPCs
-
-Hier finden Sie Beschreibungen und Informationen zu den Charakteren und NPCs in den Welten:
-- **Charaktere**: Spielercharaktere und ihre Fähigkeiten, Attribute und Hintergrundgeschichten.
-- **NPCs**: Nicht-Spieler-Charaktere und ihre Rolle in der Welt.
-
-## Karten und Visuals
-
-Dieses Projekt enthält Karten der Spielwelt und visuelle Darstellungen, um die Spielerfahrung zu verbessern:
-- **Karten**: Visuelle Darstellungen der Welt und ihrer Orte.
-- **Artwork**: Illustrationen und andere visuelle Elemente.
-
-## Dokumentation und Tutorials
-
-Anleitungen und Tutorials helfen neuen Mitwirkenden und Spielern, sich schnell zurechtzufinden:
-- **Einstieg**: Schritt-für-Schritt-Anleitungen für den Einstieg ins Projekt.
-- **FAQs**: Häufig gestellte Fragen und Antworten.
-
-## Community-Richtlinien
-
-Richtlinien für das Verhalten innerhalb der Community, um eine positive und produktive Umgebung zu gewährleisten:
-- **Verhalten**: Erwartetes Verhalten und Verhaltenskodex.
-- **Beiträge**: Richtlinien für das Einbringen von Beiträgen und Feedback.
-- **Moderation**: Informationen zur Moderation und Durchsetzung der Richtlinien.
 
 ## Nutzung des Repositories
 
