@@ -71,6 +71,8 @@ Anleitungen und Tutorials helfen neuen Mitwirkenden und Spielern, sich schnell z
 - **Charakter Update**: Ein Python Script der ein Charakter update beim Level aufstieg durchführt
 - **NPC Update**: Ein Python Script der die NPCs den Spieler Level angleicht.
 
+---
+
 ## Nutzung des Repositories
 
 **Eigene Branch erstellen**: Erstelle eine eigene Branch, um deine Geschichte zu entwickeln.
@@ -81,6 +83,8 @@ Anleitungen und Tutorials helfen neuen Mitwirkenden und Spielern, sich schnell z
    git checkout -b dein-branch-name
 ```
 
+---
+
 ## Mitmachen und Beitragen
 
 Wir laden euch herzlich ein, dieses Projekt zu einem echten Community-Projekt zu machen. Arbeitet mit uns zusammen, teilt eure Visionen und lasst uns gemeinsam eine Plattform schaffen, die Kreativität und Leidenschaft für verschiedene Arten von Abenteuern fördert. Eure Ideen und Beiträge sind entscheidend, um das Projekt weiterzuentwickeln und zu verbessern.
@@ -90,6 +94,8 @@ Wenn du also eine spannende Idee hast oder schon immer eine eigene Geschichte er
 ## Kontakt
 
 Bei Fragen oder Feedback zum Projekt, kontaktiere bitte DonNagual unter @gmail.com.
+
+---
 
 ## Lizenz
 
