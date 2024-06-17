@@ -146,4 +146,3 @@ Biete ein Beispiel für einen ausgefüllten Charakterbogen, um den Spielern zu z
 ### Erfahrungspunkte
 
 - **EP**: 0
-- 
