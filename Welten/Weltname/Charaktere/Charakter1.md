@@ -14,6 +14,13 @@
 - **Intelligenz**: [Intelligenz]
 - **Charisma**: [Charisma]
 
+## Ausrüstung
+
+- **Waffen**: [Waffen]
+- **Rüstungen**: [Rüstungen]
+- **Schmuck**: [Schmuck]
+- **Sonstige Gegenstände**: [Gegenstände]
+
 ## Fähigkeiten
 
 - **Allgemeine Fähigkeiten**: 
@@ -23,19 +30,12 @@
   - [Fähigkeit 1]
   - [Fähigkeit 2]
 
+## Erfahrungspunkte
+
+- **EP**: [Erfahrungspunkte]
+
 ## Hintergrund
 
 - **Herkunft**: [Herkunft]
 - **Motivation**: [Motivation]
 - **Persönliche Ziele**: [Ziele]
-
-## Ausrüstung
-
-- **Waffen**: [Waffen]
-- **Rüstungen**: [Rüstungen]
-- **Schmuck**: [Schmuck]
-- **Sonstige Gegenstände**: [Gegenstände]
-
-## Erfahrungspunkte
-
-- **EP**: [Erfahrungspunkte]
