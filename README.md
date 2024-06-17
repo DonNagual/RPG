@@ -36,10 +36,10 @@ Dieses Repository enthält alle notwendigen Dateien und Informationen, um ein te
 
 ## Welten
 
-Jede Welt wird von der Community erstellt und enthält spezifische Details und Regeln. Hier sind einige der Hauptkomponenten jeder Welt:
+Jede Welt wird von der Community erstellt und enthält spezifische Details und Regeln:
 - **Beschreibung**: Eine Einführung in die Welt.
-- **Gegenstände**: Waffen, Rüstungen, Schmuck und andere Gegenstände.
 - **Geschichten**: Verschiedene Geschichten und Erzählstränge, die in der Welt spielen.
+- **Gegenstände**: Waffen, Rüstungen, Schmuck und andere Gegenstände.
 - **Orte**: Beschreibungen der verschiedenen Orte und Schauplätze innerhalb der Welt.
 - **Charaktere und NPCs**: Details zu wichtigen Charakteren und Nicht-Spieler-Charakteren (NPCs).
 - **Elemente**: Magie, Technologie und Artefakte, die in der Welt existieren.
