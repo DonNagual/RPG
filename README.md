@@ -65,7 +65,9 @@ Anleitungen und Tutorials helfen neuen Mitwirkenden und Spielern, sich schnell z
 - **Tutorials**: Tutorials für Einsteiger und Forgeschrittene
 - **FAQs**: Häufig gestellte Fragen und Antworten.
 
-
+## Tools
+- **Charakter Update**: Ein Python Script der ein Charakter update beim Level aufstieg durchführt
+- **NPC Update**: Ein Python Script der die NPCs den Spieler Level angleicht.
 
 
 
