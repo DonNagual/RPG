@@ -57,18 +57,74 @@ Definiere, wie Spieler die Ausrüstung ihrer Charaktere wählen können. Dies um
 - **Sonstige Gegenstände**: Andere nützliche Gegenstände, die die Charaktere mit sich führen können.
   - **Beispiel**: Heiltränke, Werkzeuge, magische Artefakte
 
-### Beispiel für einen Charakterbogen
+---
+
+## Charakterbogen
+
+### Charakterinformationen
+
+- **Name**: [Charaktername]
+- **Rasse**: [Rasse]
+- **Klasse**: [Klasse]
+- **Level**: [Level]
+
+### Attribute
+
+- **Stärke**: [Stärke]
+- **Geschicklichkeit**: [Geschicklichkeit]
+- **Intelligenz**: [Intelligenz]
+- **Charisma**: [Charisma]
+
+### Ausrüstung
+
+- **Waffen**: [Waffen]
+- **Rüstungen**: [Rüstungen]
+- **Schmuck**: [Schmuck]
+- **Sonstige Gegenstände**: [Gegenstände]
+
+### Fähigkeiten
+
+- **Allgemeine Fähigkeiten**: 
+  - [Fähigkeit 1]
+  - [Fähigkeit 2]
+- **Klassenspezifische Fähigkeiten**: 
+  - [Fähigkeit 1]
+  - [Fähigkeit 2]
+
+### Erfahrungspunkte
+
+- **EP**: [Erfahrungspunkte]
+
+### Hintergrund
+
+- **Herkunft**: [Herkunft]
+- **Motivation**: [Motivation]
+- **Persönliche Ziele**: [Ziele]
+
+---
+
+## Beispiel - Charakterbogen
 Biete ein Beispiel für einen ausgefüllten Charakterbogen, um den Spielern zu zeigen, wie ihre Charaktere aussehen könnten.
 
-#### Charaktername: Arin
+#### Charakterinformationen
 
+- **Name**: Arin
 - **Rasse**: Elf
 - **Klasse**: Magier
-- **Attribute**:
+- **Level**: 1
+
+### Attribute
+
   - Stärke: 8
   - Geschicklichkeit: 14
   - Intelligenz: 18
   - Charisma: 12
+
+- **Ausrüstung**:
+  - Waffen: Zauberstab, Dolch
+  - Rüstungen: Robe, Lederschutz
+  - Schmuck: Ring der Weisheit
+  - Sonstige Gegenstände: Heiltrank, Magiebuch
 
 - **Fähigkeiten**:
   - Allgemeine Fähigkeiten: Reiten, Klettern
@@ -78,9 +134,3 @@ Biete ein Beispiel für einen ausgefüllten Charakterbogen, um den Spielern zu z
   - Herkunft: Arin stammt aus einem kleinen Dorf im Elfenwald. Seine Familie ist bekannt für ihre magischen Fähigkeiten.
   - Motivation: Arin sucht nach Wissen und mächtigen Artefakten, um seine magischen Fähigkeiten zu verbessern.
   - Persönliche Ziele: Kurzfristig möchte Arin einen alten Zauberstab finden, von dem er in einem Buch gelesen hat. Langfristig strebt er danach, der mächtigste Magier seiner Zeit zu werden.
-
-- **Ausrüstung**:
-  - Waffen: Zauberstab, Dolch
-  - Rüstungen: Robe, Lederschutz
-  - Schmuck: Ring der Weisheit
-  - Sonstige Gegenstände: Heiltrank, Magiebuch
