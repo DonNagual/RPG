@@ -17,7 +17,7 @@ Dieses Repository enthält alle notwendigen Dateien und Informationen, um ein te
 
 - **Welten**: Enthält alle Welten, die von der Community erstellt wurden.
 - **Regeln und Mechaniken**: Beinhaltet die allgemeinen Spielregeln, Mechaniken und Anleitungen.
-- **Dokumentation und Tutorials**: Alle nötigen Dokumentationen und Tutorials, die bei der Welten Erschafung helfen.
+- **Dokumentation und Tutorials**: Alle nötigen Dokumentationen und Tutorials, die bei der Welten Erschaffung helfen.
 - **Tools**: Alle notwendigen Tools, die bei der Weltenentwicklung und im Spiel helfen
 
 ## Inhaltsverzeichnis
@@ -56,7 +56,14 @@ Dieses Projekt legt die allgemeinen Spielregeln und Mechaniken fest, die für al
 - **Charakterbogen**: Bogenvorlage für die Charaktererschaffung
 - **Mechaniken**: Erweiterte Spielmechaniken
 
+## Dokumentation und Tutorials
 
+Anleitungen und Tutorials helfen neuen Mitwirkenden und Spielern, sich schnell zurechtzufinden:
+- **Kommunikationsregeln**: Kommunikationsregeln zwischen den Spielern und dem Gamemaster (ChatGPT).
+- **Community Richtlinien**: Verhaltensregeln und Richtlinien für die Zusammenarbeit in der Community.
+- **Arbeitsbereiche und Beteiligungsmöglichkeiten**: Arbeitsbereiche des Projekts und Möglichkeit sich einzubringen.
+- **Tutorials**: Tutorials für Einsteiger und Forgeschrittene
+- **FAQs**: Häufig gestellte Fragen und Antworten.
 
 
 
