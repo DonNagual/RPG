@@ -15,13 +15,10 @@ wir suchen leidenschaftliche Geschichtenerzähler und kreative Köpfe, die ihre 
 
 - [Projektübersicht](#Projektübersicht)
 - [Welten](#welten)
-- [Geschichten](#geschichten)
 - [Regeln und Mechaniken](#regeln-und-mechaniken)
-- [Charaktere und NPCs](#charaktere-und-npcs)
-- [Karten und Visuals](#karten-und-visuals)
 - [Dokumentation und Tutorials](#dokumentation-und-tutorials)
-- [Community-Richtlinien](#community-richtlinien)
-- [Beitragen](#beitragen)
+- [Tools](#tools)
+- [Nutzung des Repositories](#nutzung-des-repositories)
 - [Kontakt](#kontakt)
 - [Lizenz](#lizenz)
 
