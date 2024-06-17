@@ -46,6 +46,23 @@ Jede Welt wird von der Community erstellt und enthält spezifische Details und R
 - **Karten**: Visuelle Darstellungen der Welt und ihrer Orte.
 - **Assets**: Bilder und Sounds zur Unterstützung der Atmosphäre.
 
+## Regeln und Mechaniken
+
+Dieses Projekt legt die allgemeinen Spielregeln und Mechaniken fest, die für alle Welten gelten. Dazu gehören:
+- **Spielregeln**: Grundlegende Regeln des Spiels.
+- **Spielleiter-Richtlinien**: Definiert, wie der ChatGPT-Spielleiter das Spiel leiten soll.
+- **Fähigkeiten**: Beschreibung der verschiedenen Fähigkeiten, die Charaktere haben können.
+- **Kampf**: Regeln und Mechaniken für den Kampf.
+- **Charaktererschaffung**: Beschreibe, wie Spieler ihre Charaktere erstellen können
+- **Charakterbogen**: Bogenvorlage für die Charaktererschaffung
+
+
+
+
+
+
+
+
 ## Geschichten
 
 Geschichten sind spezifische Quests und Abenteuer, die in den Welten spielen. Jede Geschichte enthält:
@@ -55,13 +72,6 @@ Geschichten sind spezifische Quests und Abenteuer, die in den Welten spielen. Je
 - **Ereignisse**: Wichtige Ereignisse und Wendepunkte in der Geschichte.
 - **Erzählstränge**: Haupt- und Nebenstränge, die die Geschichte strukturieren.
 
-## Regeln und Mechaniken
-
-Dieses Projekt legt die allgemeinen Spielregeln und Mechaniken fest, die für alle Welten gelten. Dazu gehören:
-- **Spielregeln**: Grundlegende Regeln des Spiels.
-- **Mechaniken**: Detaillierte Spielmechaniken.
-- **Fähigkeiten**: Beschreibung der verschiedenen Fähigkeiten, die Charaktere haben können.
-- **Kampf**: Regeln und Mechaniken für den Kampf.
 
 ## Charaktere und NPCs
 
