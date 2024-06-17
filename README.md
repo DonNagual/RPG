@@ -17,7 +17,7 @@ Dieses Repository enthält alle notwendigen Dateien und Informationen, um ein te
 
 - **Welten**: Enthält alle Welten, die von der Community erstellt wurden.
 - **Regeln und Mechaniken**: Beinhaltet die allgemeinen Spielregeln, Mechaniken und Anleitungen.
-- **Dokumentation**: Alle nötigen Dokumentationen die bei der Welten Erschafung helfen.
+- **Dokumentation**: Alle nötigen Dokumentationen, die bei der Welten Erschafung helfen.
 - **Tutorials**: Tutorials für neue Mitwirkende und Spieler.
 - **Tools**: Alle notwendigen Tools, die bei der Weltenentwicklung und im Spiel helfen
 
