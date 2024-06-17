@@ -115,10 +115,10 @@ Biete ein Beispiel für einen ausgefüllten Charakterbogen, um den Spielern zu z
 
 ### Attribute
 
-  - Stärke: 8
-  - Geschicklichkeit: 14
-  - Intelligenz: 18
-  - Charisma: 12
+- **Stärke**: 8
+- **Geschicklichkeit**: 14
+- **Intelligenz**: 18
+- **Charisma**: 12
 
 - **Ausrüstung**:
   - Waffen: Zauberstab, Dolch
