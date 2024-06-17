@@ -11,6 +11,8 @@ Hallo liebe Spieleentwickler und Geschichtenerzähler,
 
 wir suchen leidenschaftliche Geschichtenerzähler und kreative Köpfe, die ihre eigenen Abenteuer erschaffen und mit anderen teilen möchten. Mit Hilfe unseres Repositories RPG bieten wir dir die Möglichkeit, deine eigenen Geschichten zu entwickeln und sie anderen Spielern zugänglich zu machen.
 
+---
+
 ## Inhaltsverzeichnis
 
 - [Projektübersicht](#Projektübersicht)
@@ -22,6 +24,7 @@ wir suchen leidenschaftliche Geschichtenerzähler und kreative Köpfe, die ihre 
 - [Kontakt](#kontakt)
 - [Lizenz](#lizenz)
 
+---
 
 ## Projektübersicht
 
