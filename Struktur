@@ -1,24 +1,19 @@
 RPG/
 ├── Dokumentation 
-│   ├── Tutorials
+│   ├── Tutorials/
 │   │   └── Einstieg.md
 │   ├── Arbeitsbereiche_und_Beteiligungsmöglichkeiten.md
 │   ├── Community_Richtlinien.md
 │   ├── FAQs.md
 │   ├── Kommunikationsregeln.md
-
-├── Regelwerk/
+├── Regeln_und_Mechaniken/
+│   ├── Charakterbogen.md
 │   ├── Charaktererschaffung.md
-│   ├── Kommunikationskonventionen.md
-│   ├── Kommunikationsregeln.md
-│   ├── README.md
+│   ├── Fähigkeiten.md
+│   ├── Kampf.md
+│   ├── Mechaniken.md
 │   ├── Spielleiter-Richtlinien.md
 │   └── Spielregeln.md
-├── stories/
-│   ├── example_story/
-│   │   ├── story.json
-│   │   └── assets/
-│   └── ...
 ├── templates/
 │   ├── story_template.json
 │   └── ...
