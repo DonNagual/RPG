@@ -19,8 +19,9 @@ RPG/
 │   └── NPCupdate.py
 ├── Welten/
 │   ├── Weltname/
-│   │   ├── Gegenstände/
-│   │   ├── Gegenstände/
+│   │   ├── Assets/
+│   │   ├── Charaktere/
+│   │   ├── Elemente/
 │   │   ├── Gegenstände/
 │   │   │   ├── Waffen.md
 │   │   │   ├── Rüstungen.md
