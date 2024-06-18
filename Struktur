@@ -19,7 +19,8 @@ RPG/
 │   └── NPCupdate.py
 ├── Welten/
 │   ├── Weltname/
-│   │   ├── Beschreibung.md
+│   │   ├── Gegenstände/
+│   │   ├── Gegenstände/
 │   │   ├── Gegenstände/
 │   │   │   ├── Waffen.md
 │   │   │   ├── Rüstungen.md
@@ -40,6 +41,12 @@ RPG/
 │   │   │   │   ├── Kapitel1.md
 │   │   │   │   ├── Quests.md
 │   │   │   │   └── Ereignisse.md
+│   │   ├── Gegenstände/
+│   │   ├── Gegenstände/
+│   │   ├── Gegenstände/
+│   │   ├── Gegenstände/
+│   │   ├── Gegenstände/
+│   │   ├── Beschreibung.md
 ├── LICENSE.md
 ├── README.md
 └── CONTRIBUTING.md
