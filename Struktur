@@ -38,14 +38,15 @@ RPG/
 │   │   │   └── Waffen.md
 │   │   ├── Geschichten/
 │   │   │   ├── Geschichte1/
-│   │   │   │   ├── Einführung.md
-│   │   │   │   ├── Kapitel1.md
-│   │   │   │   ├── Quests.md
-│   │   │   │   ├── Ereignisse.md
-│   │   │   │   └── Erzählstränge/
+│   │   │   │   ├── Erzählstränge/
 │   │   │   │       ├── Hauptstrang.md
 │   │   │   │       ├── Nebenstrang1.md
 │   │   │   │       └── Nebenstrang2.md
+│   │   │   │   ├── Einführung.md
+│   │   │   │   └── Ereignisse.md
+│   │   │   │   ├── Kapitel1.md
+│   │   │   │   ├── Kapitel2.md
+│   │   │   │   └── Quests.md
 │   │   │   ├── Geschichte2/
 │   │   │   │   ├── Einführung.md
 │   │   │   │   ├── Kapitel1.md
