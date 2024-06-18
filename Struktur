@@ -48,10 +48,15 @@ RPG/
 │   │   │   │   ├── Kapitel2.md
 │   │   │   │   └── Quests.md
 │   │   │   ├── Geschichte2/
+│   │   │   │   ├── Erzählstränge/
+│   │   │   │       ├── Hauptstrang.md
+│   │   │   │       ├── Nebenstrang1.md
+│   │   │   │       └── Nebenstrang2.md
 │   │   │   │   ├── Einführung.md
-│   │   │   │   ├── Kapitel1.md
-│   │   │   │   ├── Quests.md
 │   │   │   │   └── Ereignisse.md
+│   │   │   │   ├── Kapitel1.md
+│   │   │   │   ├── Kapitel2.md
+│   │   │   │   └── Quests.md
 │   │   ├── Karten/
 │   │   ├── NPCs/
 │   │   ├── Orte/
