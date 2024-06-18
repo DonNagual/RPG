@@ -28,6 +28,9 @@ RPG/
 │   │   │   ├── Charakter1.md
 │   │   │   └── Charakter2.md
 │   │   ├── Elemente/
+│   │   │   ├── Artefakte.md
+│   │   │   ├── Magie.md
+│   │   │   └── Technologie.md
 │   │   ├── Gegenstände/
 │   │   │   ├── Waffen.md
 │   │   │   ├── Rüstungen.md
