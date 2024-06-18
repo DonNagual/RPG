@@ -25,6 +25,8 @@ RPG/
 │   │   │   └── Sounds/
 │   │   │   │   ├── Sound1.mp3
 │   │   ├── Charaktere/
+│   │   │   ├── Charakter1.md
+│   │   │   └── Charakter2.md
 │   │   ├── Elemente/
 │   │   ├── Gegenstände/
 │   │   │   ├── Waffen.md
