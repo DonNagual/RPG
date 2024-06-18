@@ -1,0 +1,50 @@
+RPG/
+├── Dokumentation 
+│   ├── Tutorials
+│   │   └── Einstieg.md
+│   ├── Arbeitsbereiche_und_Beteiligungsmöglichkeiten.md
+│   ├── Community_Richtlinien.md
+│   ├── FAQs.md
+│   ├── Kommunikationsregeln.md
+
+├── Regelwerk/
+│   ├── Charaktererschaffung.md
+│   ├── Kommunikationskonventionen.md
+│   ├── Kommunikationsregeln.md
+│   ├── README.md
+│   ├── Spielleiter-Richtlinien.md
+│   └── Spielregeln.md
+├── stories/
+│   ├── example_story/
+│   │   ├── story.json
+│   │   └── assets/
+│   └── ...
+├── templates/
+│   ├── story_template.json
+│   └── ...
+├── Welten/
+│   ├── Weltname/
+│   │   ├── Beschreibung.md
+│   │   ├── Gegenstände/
+│   │   │   ├── Waffen.md
+│   │   │   ├── Rüstungen.md
+│   │   │   ├── Schmuck.md
+│   │   │   └── Sonstige.md
+│   │   ├── Geschichten/
+│   │   │   ├── Geschichte1/
+│   │   │   │   ├── Einführung.md
+│   │   │   │   ├── Kapitel1.md
+│   │   │   │   ├── Quests.md
+│   │   │   │   ├── Ereignisse.md
+│   │   │   │   └── Erzählstränge/
+│   │   │   │       ├── Hauptstrang.md
+│   │   │   │       ├── Nebenstrang1.md
+│   │   │   │       └── Nebenstrang2.md
+│   │   │   ├── Geschichte2/
+│   │   │   │   ├── Einführung.md
+│   │   │   │   ├── Kapitel1.md
+│   │   │   │   ├── Quests.md
+│   │   │   │   └── Ereignisse.md
+├── LICENSE.md
+├── README.md
+└── CONTRIBUTING.md
