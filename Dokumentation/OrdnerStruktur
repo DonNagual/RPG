@@ -9,7 +9,8 @@ RPG/
 │   ├── Community_Richtlinien.md
 │   ├── FAQs.md
 │   ├── Kommunikationsregeln.md
-│   └── OrdnerStruktur.md
+│   ├── OrdnerStruktur.md
+│   └── README.md
 ├── Regeln_und_Mechaniken/
 │   ├── Charakterbogen.md
 │   ├── Charaktererschaffung.md
@@ -17,10 +18,12 @@ RPG/
 │   ├── Kampf.md
 │   ├── Mechaniken.md
 │   ├── Spielleiter-Richtlinien.md
-│   └── Spielregeln.md
+│   ├── Spielregeln.md
+│   └── README.md
 ├── Tools/
 │   ├── Charakterupdate.py
-│   └── NPCupdate.py
+│   ├── NPCupdate.py
+│   └── README.md
 ├── Welten/
 │   ├── Weltname/
 │   │   ├── Assets/
@@ -73,6 +76,7 @@ RPG/
 │   │   │   ├── Ort1.md
 │   │   │   └── Ort2.md
 │   │   └── Beschreibung.md
+│   └── README.md
 ├── LICENSE.md
 ├── README.md
 └── CONTRIBUTING.md
