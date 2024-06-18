@@ -1,11 +1,12 @@
 RPG/
 ├── Dokumentation 
-│   ├── Tutorials/
-│   │   └── Einstieg.md
 │   ├── Arbeitsbereiche_und_Beteiligungsmöglichkeiten.md
 │   ├── Community_Richtlinien.md
 │   ├── FAQs.md
 │   ├── Kommunikationsregeln.md
+│   ├── OrdnerStruktur.md
+│   └── Tutorials/
+│       └── Einstieg.md
 ├── Regeln_und_Mechaniken/
 │   ├── Charakterbogen.md
 │   ├── Charaktererschaffung.md
