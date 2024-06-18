@@ -20,6 +20,10 @@ RPG/
 ├── Welten/
 │   ├── Weltname/
 │   │   ├── Assets/
+│   │   │   ├── Bilder/
+│   │   │   │   ├── Bild1.png
+│   │   │   └── Sounds/
+│   │   │   │   ├── Sound1.mp3
 │   │   ├── Charaktere/
 │   │   ├── Elemente/
 │   │   ├── Gegenstände/
