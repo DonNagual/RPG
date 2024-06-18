@@ -14,9 +14,9 @@ RPG/
 │   ├── Mechaniken.md
 │   ├── Spielleiter-Richtlinien.md
 │   └── Spielregeln.md
-├── templates/
-│   ├── story_template.json
-│   └── ...
+├── Tools/
+│   ├── Charakterupdate.py
+│   └── NPCupdate.py
 ├── Welten/
 │   ├── Weltname/
 │   │   ├── Beschreibung.md
