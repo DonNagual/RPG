@@ -32,10 +32,10 @@ RPG/
 │   │   │   ├── Magie.md
 │   │   │   └── Technologie.md
 │   │   ├── Gegenstände/
-│   │   │   ├── Waffen.md
 │   │   │   ├── Rüstungen.md
 │   │   │   ├── Schmuck.md
-│   │   │   └── Sonstige.md
+│   │   │   ├── Sonstige.md
+│   │   │   └── Waffen.md
 │   │   ├── Geschichten/
 │   │   │   ├── Geschichte1/
 │   │   │   │   ├── Einführung.md
