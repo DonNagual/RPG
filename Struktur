@@ -42,11 +42,9 @@ RPG/
 │   │   │   │   ├── Kapitel1.md
 │   │   │   │   ├── Quests.md
 │   │   │   │   └── Ereignisse.md
-│   │   ├── Gegenstände/
-│   │   ├── Gegenstände/
-│   │   ├── Gegenstände/
-│   │   ├── Gegenstände/
-│   │   ├── Gegenstände/
+│   │   ├── Karten/
+│   │   ├── NPCs/
+│   │   ├── Orte/
 │   │   ├── Beschreibung.md
 ├── LICENSE.md
 ├── README.md
