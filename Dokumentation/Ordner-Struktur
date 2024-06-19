@@ -21,8 +21,8 @@ RPG/
 │   ├── Spielregeln.md
 │   └── README.md
 ├── Tools/
-│   ├── Charakterupdate.py
-│   ├── NPCupdate.py
+│   ├── Charakterupdate.cpp
+│   ├── NPCupdate.cpp
 │   └── README.md
 ├── Welten/
 │   ├── Weltname/
