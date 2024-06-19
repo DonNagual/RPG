@@ -2,6 +2,11 @@
 
 Dieser Ordner enthält nützliche C++-Programme, um Charakter- und NPC-Daten zu verwalten.
 
+## Inhaltsverzeichnis
+
+- [Charakterupdate](Charakterupdate.cpp)
+- [NPCupdate](NPCupdate.cpp)
+
 ## Charakterupdate.cpp
 
 Dieses Programm aktualisiert den Charakterbogen eines Spielers, wenn der Charakter einen Levelaufstieg hat und der Spieler seine Punkte verteilt hat.
@@ -23,6 +28,4 @@ Dieses Programm passt die Level und Attribute der NPCs an den Level des Spielerc
 g++ -o NPCupdate NPCupdate.cpp -ljsoncpp
 ./NPCupdate <npc_file.json> <player_level>
 ```
-
-Diese C++-Programme ermöglichen es dir, die Charakter- und NPC-Daten effizient zu verwalten. Sie können leicht erweitert werden, um weitere Funktionen zu unterstützen.
 
